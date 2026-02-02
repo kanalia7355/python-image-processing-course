@@ -1,0 +1,9 @@
+# Jupyter and IPython
+jupyter>=1.0.0
+ipython>=8.0.0
+ipykernel>=6.0.0
+
+# Image processing (later in course)
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0

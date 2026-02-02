@@ -1,0 +1,10 @@
+サンプル画像リスト（PPM形式）:
+------------------------------
+blue_bg.ppm
+checkerboard.ppm
+diagonal.ppm
+gradient.ppm
+green_circle.ppm
+horizontal_stripes.ppm
+red_rect.ppm
+vertical_lines.ppm
