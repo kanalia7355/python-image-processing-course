@@ -62,10 +62,6 @@ python-image-processing-course/
 ├── exercises/                   # 課題markdown & pdf（Day1〜30）
 │   ├── exercises.md
 │   └── exercises.pdf
-├── solutions/                   # 解答例Notebook（Day1〜30）
-│   ├── Day01_SOLUTION.ipynb
-│   ├── ...
-│   └── Day30_SOLUTION.ipynb
 ├── data/                        # サンプル画像データ
 │   ├── sample_images/
 │   └── test_images/
