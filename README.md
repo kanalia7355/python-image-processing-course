@@ -199,7 +199,7 @@ cat data/image_list.txt
 
 ```bash
 # リポジトリをクローン
-git clone [リポジトリURL]
+git clone https://github.com/kanalia7355/python-image-processing-course
 
 # 必要ライブラリをインストール
 pip install -r requirements.txt
